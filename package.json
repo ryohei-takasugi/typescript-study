@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.9",
+    "ts-node": "^10.9.1"
+  }
+}
